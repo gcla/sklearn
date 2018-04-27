@@ -11,7 +11,7 @@ package base
 // 	//"math/rand"
 // 	"testing"
 
-// 	//lm "github.com/pa-m/sklearn/linear_model"
+// 	//lm "github.com/gcla/sklearn/linear_model"
 // 	"gonum.org/v1/gonum/mat"
 // 	"gonum.org/v1/gonum/optimize"
 // 	//"time"

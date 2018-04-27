@@ -6,8 +6,8 @@ import (
 	"math"
 	"runtime"
 	// use dot import for lisibility
-	//"github.com/pa-m/sklearn/base"
-	"github.com/pa-m/sklearn/base"
+	//"github.com/gcla/sklearn/base"
+	"github.com/gcla/sklearn/base"
 	"gonum.org/v1/gonum/mat"
 	gg "gorgonia.org/gorgonia"
 	"gorgonia.org/tensor"

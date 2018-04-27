@@ -4,7 +4,7 @@ import (
 	"fmt"
 	_ "math"
 
-	"github.com/pa-m/sklearn/base"
+	"github.com/gcla/sklearn/base"
 
 	"github.com/gonum/floats"
 	"gonum.org/v1/gonum/mat"

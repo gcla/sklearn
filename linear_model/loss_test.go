@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/pa-m/sklearn/base"
+	"github.com/gcla/sklearn/base"
 	"gonum.org/v1/gonum/diff/fd"
 	"gonum.org/v1/gonum/floats"
 	"gonum.org/v1/gonum/mat"

@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"sort"
 
-	"github.com/pa-m/sklearn/base"
+	"github.com/gcla/sklearn/base"
 
 	"github.com/gonum/floats"
 	"gonum.org/v1/gonum/mat"

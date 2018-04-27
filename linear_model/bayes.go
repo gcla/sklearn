@@ -5,9 +5,9 @@ import (
 	"math"
 
 	"github.com/gonum/floats"
-	//"github.com/pa-m/sklearn/base"
-	"github.com/pa-m/sklearn/base"
-	"github.com/pa-m/sklearn/preprocessing"
+	//"github.com/gcla/sklearn/base"
+	"github.com/gcla/sklearn/base"
+	"github.com/gcla/sklearn/preprocessing"
 	"gonum.org/v1/gonum/mat"
 )
 

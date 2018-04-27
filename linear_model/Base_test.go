@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/pa-m/sklearn/base"
-	"github.com/pa-m/sklearn/metrics"
+	"github.com/gcla/sklearn/base"
+	"github.com/gcla/sklearn/metrics"
 	"gonum.org/v1/gonum/mat"
 	"gonum.org/v1/gonum/optimize"
 )
