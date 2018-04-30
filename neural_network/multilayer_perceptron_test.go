@@ -10,7 +10,7 @@ import (
 	"github.com/gcla/sklearn/datasets"
 	"github.com/gcla/sklearn/metrics"
 
-	"github.com/gonum/floats"
+	"gonum.org/v1/gonum/floats"
 	"github.com/gcla/sklearn/base"
 	"github.com/gcla/sklearn/preprocessing"
 

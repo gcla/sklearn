@@ -1,7 +1,7 @@
 package linearModel
 
 import (
-	"github.com/gonum/floats"
+	"gonum.org/v1/gonum/floats"
 	"github.com/gcla/sklearn/base"
 	"gonum.org/v1/gonum/mat"
 	"gonum.org/v1/gonum/optimize"
